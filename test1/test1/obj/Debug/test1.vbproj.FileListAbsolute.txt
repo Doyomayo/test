@@ -1,0 +1,15 @@
+C:\Users\kok_1\source\repos\test1\test1\bin\Debug\test1.exe.config
+C:\Users\kok_1\source\repos\test1\test1\bin\Debug\test1.exe
+C:\Users\kok_1\source\repos\test1\test1\bin\Debug\test1.pdb
+C:\Users\kok_1\source\repos\test1\test1\bin\Debug\test1.xml
+C:\Users\kok_1\source\repos\test1\test1\obj\Debug\test1.vbproj.AssemblyReference.cache
+C:\Users\kok_1\source\repos\test1\test1\obj\Debug\test1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\kok_1\source\repos\test1\test1\obj\Debug\test1.Form1.resources
+C:\Users\kok_1\source\repos\test1\test1\obj\Debug\test1.Resources.resources
+C:\Users\kok_1\source\repos\test1\test1\obj\Debug\test1.vbproj.GenerateResource.cache
+C:\Users\kok_1\source\repos\test1\test1\obj\Debug\test1.vbproj.CoreCompileInputs.cache
+C:\Users\kok_1\source\repos\test1\test1\obj\Debug\test1.exe
+C:\Users\kok_1\source\repos\test1\test1\obj\Debug\test1.xml
+C:\Users\kok_1\source\repos\test1\test1\obj\Debug\test1.pdb
+C:\Users\kok_1\source\repos\test1\test1\obj\Debug\test1.Form2.resources
+C:\Users\kok_1\source\repos\test1\test1\obj\Debug\test1.Form3.resources
